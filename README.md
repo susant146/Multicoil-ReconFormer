@@ -16,7 +16,7 @@ We extend the original ReconFormer model to support **multicoil** reconstruction
 ## 📌 Highlights
 
 - ✅ **Supports multicoil MRI data**
-- ✅ Modified `SliceDataset` and `Transforms` for fastMRI multicoil knee dataset
+- ✅ Modified `Dataloader` and `Transforms` for fastMRI multicoil knee dataset
 - ✅ Consistent with fastMRI evaluation protocols (SSIM, PSNR, NMSE)
 - ✅ Efficient training and inference pipelines
 - ✅ Based on lightweight transformer design for fast and accurate reconstruction
