@@ -33,6 +33,7 @@ tqdm
 scikit-image
 einops
 pyyaml
-fastmri @ git+https://github.com/facebookresearch/fastMRI.git
-Reconformer Model @ https://github.com/guopengf/ReconFormer/tree/main/models
+fastmri @ git+https://github.com/facebookresearch/fastMRI.git <br/>
+
+**Reconformer Model** @ https://github.com/guopengf/ReconFormer/tree/main/models
 
