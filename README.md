@@ -34,4 +34,5 @@ scikit-image
 einops
 pyyaml
 fastmri @ git+https://github.com/facebookresearch/fastMRI.git
+Reconformer Model @ https://github.com/guopengf/ReconFormer/tree/main/models
 
